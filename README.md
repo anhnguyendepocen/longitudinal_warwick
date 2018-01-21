@@ -20,9 +20,9 @@ Files:
 | psid_extract_20180121_vg_v1 | .dta | Example from Cornwell and Rupert (1988) |
 | panel_greene_20180121_vg_v1 | .dta | Example from Greene (1999) |
 | wemp_20180121_vg_v1 | .dta | Panel data example (binary outcome) |
-| aindresp_example_20180121_vg_v1 | Wave A of BHPS example data file (fake BHPS data) |
-| bindresp_example_20180121_vg_v1 | Wave B of BHPS example data file (fake BHPS data) |
-| cindresp_example_20180121_vg_v1 | Wave C of BHPS example data file (fake BHPS data) |
+| aindresp_example_20180121_vg_v1 | .dta | Wave A of BHPS example data file (fake BHPS data) |
+| bindresp_example_20180121_vg_v1 | .dta | Wave B of BHPS example data file (fake BHPS data) |
+| cindresp_example_20180121_vg_v1 | .dta | Wave C of BHPS example data file (fake BHPS data) |
 
 
 ____
