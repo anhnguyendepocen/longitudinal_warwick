@@ -13,8 +13,7 @@ Files:
 
 Day 2 main Stata .do file                               longitudinal_20180121_1424_vg_v6
 
-| File Name      | Are           | Cool  |
-| -------------------------------------|:-------------:| -----:|
-| longitudinal_20180121_1424_vg_v6     | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| File Name      | File types          |
+| -------------------------------------|:-------------:|
+| longitudinal_20180121_1424_vg_v6     | .do |
+
