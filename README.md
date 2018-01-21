@@ -12,7 +12,7 @@ Gayle V. and Lambert P. (2018) What is Quantitative Longitudinal Data Analysis?
                                
 Files:
 
-| File Name      | File types          | Description
+| File Name      | File Type          | Description
 | -------------------------------------|:-------------:|:-------------:|
 | longitudinal_20180121_1424_vg_v6     | .do | Main instruction file for Day 2|
 | college_skills_20180121_vg_v1 |.dta | Duration data example |
