@@ -13,5 +13,6 @@ Files:
 
 | File Name      | File types          | Description
 | -------------------------------------|:-------------:|:-------------:|
-| longitudinal_20180121_1424_vg_v6     | .do | Main instruction file for Day 2
+| longitudinal_20180121_1424_vg_v6     | .do | Main instruction file for Day 2|
+| college_skills_20180121_vg_v1 |.dta | Duration data example |
 
