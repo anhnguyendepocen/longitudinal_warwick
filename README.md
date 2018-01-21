@@ -17,5 +17,5 @@ Files:
 | longitudinal_20180121_1424_vg_v6     | .do | Main instruction file for Day 2|
 | college_skills_20180121_vg_v1 |.dta | Duration data example |
 | income_ft_male_panel_fake_20180121_vg_v4 | .dta | Panel data example (fake BHPS data) |
-| 
+| psid_extract_20180121_vg_v1 | .dta | Example from Cornwell and Rupert (1988) |
 
