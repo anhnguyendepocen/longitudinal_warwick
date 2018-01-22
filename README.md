@@ -23,6 +23,7 @@ Files:
 | aindresp_example_20180121_vg_v1 | .dta | Wave A of BHPS example data file (fake BHPS data) |
 | bindresp_example_20180121_vg_v1 | .dta | Wave B of BHPS example data file (fake BHPS data) |
 | cindresp_example_20180121_vg_v1 | .dta | Wave C of BHPS example data file (fake BHPS data) |
+| longitudinal_lectures_20180122_1858_vg_v2 | .pdf | Day 1 pdf of Powerpoint slides |
 
 
 ____
